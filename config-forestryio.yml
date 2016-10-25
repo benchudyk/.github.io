@@ -1,0 +1,33 @@
+---
+title: BenChudyk
+email: ben.chudyk@gmail.com
+url: https://benchudyk.github.io
+description: I'm a creative designer with experience in web and print.
+skills: Web Developer - Graphic Artist - User Experience Designer
+meta_author: Chudyk Ben
+google_verify: 
+bing_verify: 
+contact: static
+disqus_shortname: myshortname
+color:
+  primary: 18bc9c
+  primary-rgb: '24,288,156'
+  secondary: 2c3e50
+  secondary-dark: 233140
+footer:
+  copyright: Ben Chudyk
+  location: Location
+  social: Around the Web
+  credits: About
+social:
+- title: instagram
+  url: http://instagram.com/bennyjojo
+- title: facebook
+  url: http://facebook.com/benchudyk
+address:
+- line: 6967 179a Street
+- line: Surrey, BC
+credits: Nearly 30 :( graphic designer)
+markdown: kramdown
+permalink: pretty
+timezone: America/Los_Angeles
