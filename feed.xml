@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BenChudyk</title>
+    <title>Ben Chudyk</title>
     <description>I'm a creative designer with experience in web and print.</description>
     <link>https://benchudyk.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 25 Oct 2016 02:25:22 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 02:25:22 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 03:31:11 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 03:31:11 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
-        <title>Project 1</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title></title>
+        <description>Acoustic panels for several different industries from home studios to restaurants. Primacoustic is a sister company to Radial Engineering that needed some serious updates. The final product uses wordpress for the CMS. I designed the site and helped with some front end development. I directed the team and reported to the owner for each stage of the process. There was roughly 250 pages and post types full of content so planning was key. We separated products as a post type so that we could manipulate the products for future apps like a room calculator and graphic price list. </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-        <link>https://benchudyk.github.io/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://benchudyk.github.io/web%20development/2014/07/18/project-1/</guid>
+        <link>https://benchudyk.github.io/web/development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://benchudyk.github.io/web/development/2014/07/18/project-1/</guid>
         
         
-        <category>Web Development</category>
+        <category>Web</category>
+        
+        <category>Development</category>
         
       </item>
     
