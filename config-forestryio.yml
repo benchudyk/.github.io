@@ -10,10 +10,10 @@ bing_verify:
 contact: static
 disqus_shortname: myshortname
 color:
-  primary: 3177a9
+  primary: 2c3e50
   primary-rgb: '19,47,66'
   secondary: 2c3e50
-  secondary-dark: 233140
+  secondary-dark: 151e26
 footer:
   copyright: Ben Chudyk
   location: Location
