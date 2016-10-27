@@ -10,7 +10,7 @@ bing_verify:
 contact: static
 disqus_shortname: myshortname
 color:
-  primary: 2c3e50
+  primary: 43627a
   primary-rgb: '19,47,66'
   secondary: 2c3e50
   secondary-dark: 151e26
