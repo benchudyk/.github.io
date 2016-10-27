@@ -18,16 +18,15 @@ footer:
   copyright: Ben Chudyk
   location: Location
   social: Around the Web
-  credits: About
+  credits: Favorite Guitarist
 social:
 - title: instagram
   url: http://instagram.com/bennyjojo
 - title: facebook
   url: http://facebook.com/benchudyk
 address:
-- line: 6967 179a Street
-- line: Surrey, BC
-credits: Nearly 30 :( graphic designer
+- line: Langley, BC
+credits: Slash
 markdown: kramdown
 permalink: pretty
 timezone: America/Los_Angeles
