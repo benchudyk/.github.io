@@ -5,8 +5,8 @@
     <description>I'm a creative designer with experience in web and print.</description>
     <link>https://benchudyk.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 05 Nov 2016 20:13:19 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Nov 2016 20:13:19 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Nov 2016 20:18:16 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Nov 2016 20:18:16 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -17,13 +17,11 @@
 
 &lt;img class=&quot;img-responsive&quot; src=&quot;/forestryio/images/primacoustic-web-mockup.jpg&quot;&gt;</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-        <link>https://benchudyk.github.io/web/development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://benchudyk.github.io/web/development/2014/07/18/project-1/</guid>
+        <link>https://benchudyk.github.io/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://benchudyk.github.io/web%20development/2014/07/18/project-1/</guid>
         
         
-        <category>Web</category>
-        
-        <category>Development</category>
+        <category>Web Development</category>
         
       </item>
     
@@ -53,13 +51,11 @@
 
 &lt;img class=&quot;img-responsive&quot; src=&quot;/forestryio/images/jensen-web-mockup.jpg&quot;&gt;</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
-        <link>https://benchudyk.github.io/web/development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://benchudyk.github.io/web/development/2014/07/16/project-3/</guid>
+        <link>https://benchudyk.github.io/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://benchudyk.github.io/web%20development/2014/07/16/project-3/</guid>
         
         
-        <category>Web</category>
-        
-        <category>Development</category>
+        <category>Web Development</category>
         
       </item>
     
