@@ -5,8 +5,8 @@
     <description>I'm a creative designer with experience in web and print.</description>
     <link>https://benchudyk.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 05 Nov 2016 19:51:43 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Nov 2016 19:51:43 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Nov 2016 19:53:23 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:53:23 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -43,7 +43,11 @@
     
       <item>
         <title>Jensen Transformers</title>
-        <description>Another company Radial had purchased to ensure manufacturing for their audio transformers. The original website and brand was re designed. The website was developed with wordpress and bootstrap. I had designed the website and print materials. </description>
+        <description>Another company Radial had purchased to ensure manufacturing for their audio transformers. The original website and brand was re designed. The website was developed with wordpress and bootstrap. I had designed the website and print materials. 
+
+&lt;a href=&quot;www.jensen-transformers.com&quot;&gt;www.jensen-transformers.com&lt;/a&gt;
+
+&lt;img class=&quot;img-responsive&quot; src=&quot;/forestryio/images/jensen-web-mockup.jpg&quot;&gt;</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
         <link>https://benchudyk.github.io/web/development/2014/07/16/project-3/</link>
         <guid isPermaLink="true">https://benchudyk.github.io/web/development/2014/07/16/project-3/</guid>
